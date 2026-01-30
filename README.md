@@ -96,7 +96,7 @@ Untuk mempelajari lebih lanjut tentang Next.js:
 
 ## Deploy
 
-Link aplikasi dengan deploy vercel: [https://frontend-workshop-lake.vercel.app]
+Link aplikasi dengan deploy vercel: https://frontend-workshop-lake.vercel.app/
 
 Lihat [dokumentasi deployment Next.js](https://nextjs.org/docs/app/building-your-application/deploying) untuk detail lebih lanjut.
 
