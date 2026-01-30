@@ -44,7 +44,6 @@ export default function Home(){
       <div className="max-w-6xl mx-auto">
         <div className="bg-white rounded-2xl shadow-xl p-8">
           <h1 className="text-3xl text-blue-900 font-bold mb-6 flex items-center gap-3">
-            <span className="text-4xl">🗺️</span>
             Daftar Provinsi Indonesia
           </h1>
 
